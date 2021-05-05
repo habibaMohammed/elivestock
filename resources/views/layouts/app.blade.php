@@ -14,13 +14,13 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
     
     <!-- Styles -->
-    <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('style.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/classy-nav.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/animate.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/css/classy-nav.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/css/animate.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/css/font-awesome.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/css/magnific-popup.css') }}">
+    <link rel="stylesheet" href="{{ asset('frontend/css/owl.carousel.min.css') }}">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     
     
@@ -191,31 +191,31 @@
         </main>
     </div>
      <!-- jquery 2.2.4  -->
- <script src="{{ asset('js/jquery.min.js') }}"></script>
+ <script src="{{ asset('frontend/js/jquery.min.js') }}"></script>
     <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="{{ asset('frontend/js/app.js') }}" defer></script>
  
   <!-- Popper js -->
-  <script src="{{ asset('js/popper.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/popper.min.js') }}"></script>
   <!-- Bootstrap js -->
-  <script src="{{ asset('js/bootstrap.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/bootstrap.min.js') }}"></script>
   <!-- Owl Carousel js -->
-  <script src="{{ asset('js/owl.carousel.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/owl.carousel.min.js') }}"></script>
   <!-- Classynav -->
-  <script src="{{ asset('js/classynav.js') }}"></script>
+  <script src="{{ asset('frontend/js/classynav.js') }}"></script>
   <!-- Wow js -->
-  <script src="{{ asset('js/wow.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/wow.min.js') }}"></script>
   <!-- Sticky js -->
-  <script src="{{ asset('js/jquery.sticky.js') }}"></script>
+  <script src="{{ asset('frontend/js/jquery.sticky.js') }}"></script>
   <!-- Magnific Popup js -->
-  <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/jquery.magnific-popup.min.js') }}"></script>
   <!-- Scrollup js -->
-  <script src="{{ asset('js/jquery.scrollup.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/jquery.scrollup.min.js') }}"></script>
   <!-- Jarallax js -->
-  <script src="{{ asset('js/jarallax.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/jarallax.min.js') }}"></script>
   <!-- Jarallax Video js -->
-  <script src="{{ asset('js/jarallax-video.min.js') }}"></script>
+  <script src="{{ asset('frontend/js/jarallax-video.min.js') }}"></script>
   <!-- Active js -->
-  <script src="{{ asset('js/active.js') }}"></script>
+  <script src="{{ asset('frontend/js/active.js') }}"></script>
 </body>
 </html>
